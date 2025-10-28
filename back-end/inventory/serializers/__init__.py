@@ -1,0 +1,1 @@
+from inventory.serializers.supplier_serializer import SupplierSerializer
